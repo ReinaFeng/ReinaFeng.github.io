@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+  <title>Reina Feng</title>
+  
+  <subtitle>Welcome to My Lifelong Data Science Journey!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://reinafeng.github.io/"/>
+  <updated>2019-11-18T02:10:13.697Z</updated>
+  <id>http://reinafeng.github.io/</id>
+  
+  <author>
+    <name>Reina</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Materials</title>
+    <link href="http://reinafeng.github.io/2019/11/17/material/"/>
+    <id>http://reinafeng.github.io/2019/11/17/material/</id>
+    <published>2019-11-18T01:59:46.000Z</published>
+    <updated>2019-11-18T02:10:13.697Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;Useful materials including Data Science cheat sheets, interview questions and Leetcode algorithm.&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Study Path</title>
+    <link href="http://reinafeng.github.io/2019/11/17/study-path/"/>
+    <id>http://reinafeng.github.io/2019/11/17/study-path/</id>
+    <published>2019-11-17T22:35:34.000Z</published>
+    <updated>2019-11-18T02:10:35.455Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;It is a charming journey exploring Data Science World.&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

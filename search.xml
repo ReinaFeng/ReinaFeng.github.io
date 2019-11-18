@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Materials</title>
+    <url>/2019/11/17/material/</url>
+    <content><![CDATA[<p><em>Useful materials including Data Science cheat sheets, interview questions and Leetcode algorithm.</em></p>
+<a id="more"></a>
+
+<ul>
+<li><p><strong>Interviews</strong></p>
+<ul>
+<li><p><a href="https://github.com/0voice/interview_internal_reference" target="_blank" rel="noopener">Chinese Company Interview</a></p>
+</li>
+<li><p><a href="https://github.com/kojino/120-Data-Science-Interview-Questions" target="_blank" rel="noopener">120-Data-Science-Interview-Questions</a></p>
+</li>
+<li><p><a href="https://github.com/NLP-LOVE/ML-NLP" target="_blank" rel="noopener">ML-NLP</a></p>
+</li>
+</ul>
+</li>
+<li><p><strong>Cheat Sheet</strong></p>
+<ul>
+<li><p><a href="https://github.com/virgili0/Virgilio" target="_blank" rel="noopener">Virgilio</a></p>
+</li>
+<li><p><a href="https://github.com/FavioVazquez/ds-cheatsheets" target="_blank" rel="noopener">ds-cheatsheets</a></p>
+</li>
+</ul>
+</li>
+<li><p><strong>Algorithm</strong></p>
+<ul>
+<li><p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank" rel="noopener">Tech Interview Handbook</a></p>
+</li>
+<li><p><a href="https://github.com/jwasham/coding-interview-university" target="_blank" rel="noopener">Coding Interview University</a></p>
+</li>
+<li><p><a href="https://github.com/azl397985856/leetcode" target="_blank" rel="noopener">Leetcode Solution-1</a></p>
+</li>
+<li><p><a href="https://github.com/MisterBooo/LeetCodeAnimation" target="_blank" rel="noopener">Leetcode Animation</a>: Demonstrate LeetCode questions in the form of animation </p>
+</li>
+<li><p><a href="https://github.com/NLP-LOVE/CodingInterviews2-ByPython" target="_blank" rel="noopener">CodingInterviews2-ByPython</a>:《剑指offer》</p>
+</li>
+</ul>
+</li>
+<li><p><a href="https://github.com/fengdu78/machine_learning_beginner" target="_blank" rel="noopener"><strong>Machine Learning Beginner - Haiguang Huang</strong></a></p>
+<ul>
+<li><a href="https://github.com/fengdu78/pumpkin-book" target="_blank" rel="noopener">南瓜书PumpkinBook</a>: Formula derivation of <em>Machine Learning- Zhihua Zhou</em> </li>
+<li><a href="https://github.com/fengdu78/AiLearning" target="_blank" rel="noopener">AiLearning</a></li>
+<li><a href="https://github.com/fengdu78/Data-Science-Notes" target="_blank" rel="noopener">Data Science Notes</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>My Study Path</title>
+    <url>/2019/11/17/study-path/</url>
+    <content><![CDATA[<p><em>It is a charming journey exploring Data Science World.</em></p>
+<a id="more"></a>
+<p><img src="/images/RoadToDataScientist1.png" alt=""></p>
+<h1 id="Statistics"><a href="#Statistics" class="headerlink" title="Statistics"></a>Statistics</h1><h1 id="Mathematics"><a href="#Mathematics" class="headerlink" title="Mathematics"></a>Mathematics</h1><h1 id="Big-Data"><a href="#Big-Data" class="headerlink" title="Big Data"></a>Big Data</h1><h1 id="Algorithm"><a href="#Algorithm" class="headerlink" title="Algorithm"></a>Algorithm</h1><h1 id="Machine-Learning"><a href="#Machine-Learning" class="headerlink" title="Machine Learning"></a>Machine Learning</h1><h1 id="Data-Mining"><a href="#Data-Mining" class="headerlink" title="Data Mining"></a>Data Mining</h1><h1 id="Data-Visualization"><a href="#Data-Visualization" class="headerlink" title="Data Visualization"></a>Data Visualization</h1>]]></content>
+  </entry>
+</search>
